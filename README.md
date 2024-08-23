@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/8650f072-001b-48b8-900a-a445e32c0264)
+
 # EducationNetwork Smart Contract
 
 ## Vision
@@ -34,6 +36,8 @@ The `EducationNetwork` smart contract aims to revolutionize the management and v
 ## Contract Address
 
 contract address: 0x922399b818c3adc40f3b16caa079b235a116f7ec
+![image](https://github.com/user-attachments/assets/b7178fc5-f945-4578-b265-b281782966c4)
+
 ## Contract Deployment
 
 Deploy the `EducationNetwork` contract using a Solidity development environment like Remix, Truffle, or Hardhat. Ensure compatibility with Solidity version 0.8.0 or higher.
